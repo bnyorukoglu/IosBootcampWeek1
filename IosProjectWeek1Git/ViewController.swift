@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         //development on development branch
-        //bugFix1
+        //bugfix2
     }
 
 
